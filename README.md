@@ -1,3 +1,18 @@
+# Desafio de MontyHall em VueJS. 
+
+## Neste projeto foi desenvolvido um jogo em VueJS sobre o desafio de MontyHall. 
+
+### Tecnologias do projeto: 
+
+* VueJS
+* HTML
+* CSS
+* JavaScript
+* Node.js
+
+
+***
+
 # montyhall
 
 ## Project setup
