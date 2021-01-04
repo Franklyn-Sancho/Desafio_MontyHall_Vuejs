@@ -6,7 +6,7 @@ Esta aplicação seria uma forma de simular o desafio de monty hall para tirarmo
 
 > Mais sobre o assunto: https://pt.wikipedia.org/wiki/Problema_de_Monty_Hall
 
-### Imagens do projeto: :camera::
+### Imagens do projeto :camera::
 <img src="https://github.com/Franklyn-Sancho/Desafio_MontyHall_Vuejs/blob/master/tela1.png">
 <img src="https://github.com/Franklyn-Sancho/Desafio_MontyHall_Vuejs/blob/master/tela2.png">
 
@@ -19,7 +19,7 @@ Esta aplicação seria uma forma de simular o desafio de monty hall para tirarmo
 ![Badge](https://img.shields.io/static/v1?label=Javascript&message=Language&color=yellow&style=for-the-badge&logo=JAVASCRIPT)
 ![Badge](https://img.shields.io/static/v1?label=node&message=interpretor&color=green&style=for-the-badge&logo=NODEJS)
 
-### Para rodar a aplicação
+### Para rodar a aplicação :arrow_forward::
 * Basta clonar o repositório com o git clone :sheep:
 * instale as depêndecias com o npm install :computer:
 * digite o comando npm run serve e abra localhost:8080 :door:
