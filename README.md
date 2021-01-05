@@ -26,8 +26,11 @@ Esta aplicação seria uma forma de simular o desafio de monty hall para tirarmo
 * agora é só desafiar a galera :yum:
 
 
--------------------------------------------------------
+***
 > Status do Projeto: Concluído :heavy_check_mark:
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+***
+<p align="right"> Feito com :heart: por Franklyn Sancho </p>
