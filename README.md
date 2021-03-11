@@ -13,11 +13,11 @@ Esta aplicação seria uma forma de simular o desafio de monty hall para tirarmo
 
 ### Tecnologias para a construção: 
 
-![Badge](https://img.shields.io/static/v1?label=vuejs&message=framework&color=darkgreen&style=for-the-badge&logo=VUEJS)
-![Badge](https://img.shields.io/static/v1?label=html&message=mark&color=orange&style=for-the-badge&logo=HTML)
+![Badge](https://img.shields.io/static/v1?label=vue.js&message=framework&color=darkgreen&style=for-the-badge&logo=vue.js)
+![Badge](https://img.shields.io/static/v1?label=HTML5&message=Language&color=orange&style=for-the-badge&logo=HTML5)
 ![Badge](https://img.shields.io/static/v1?label=css&message=code&color=blue&style=for-the-badge&logo=CSS)
 ![Badge](https://img.shields.io/static/v1?label=Javascript&message=Language&color=yellow&style=for-the-badge&logo=JAVASCRIPT)
-![Badge](https://img.shields.io/static/v1?label=node&message=interpretor&color=green&style=for-the-badge&logo=NODEJS)
+![Badge](https://img.shields.io/static/v1?label=node&message=built&color=green&style=for-the-badge&logo=node.js)
 
 ### Para rodar a aplicação :arrow_forward::
 * Basta clonar o repositório com o git clone :sheep:
